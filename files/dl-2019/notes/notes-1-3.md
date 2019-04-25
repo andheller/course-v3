@@ -30,7 +30,7 @@ What if your dependent variable is a continuous value, instead of a category? We
 ### Other resources
 
 - Useful online courses for ML background:
--- [Introduction to Machine Learning for Coders](https://course.fast.ai/ml) taught by @jeremy
+-- [Introduction to Machine Learning for Coders](https://course18.fast.ai/ml) taught by @jeremy
 -- [Machine Learning](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng (coursera)
 - [Video Browser with Searchable Transcripts](http://videos.fast.ai/) Password: deeplearningSF2018 (do not share outside the forum group) -  [PRs welcome.]( https://github.com/zcaceres/fastai-video-browser)
 - [Quick and easy model deployment](https://course.fast.ai/deployment_render.html) using Render
